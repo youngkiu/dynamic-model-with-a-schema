@@ -1,0 +1,4 @@
+.idea/
+mongodb/
+node_modules/
+.env
